@@ -22,6 +22,20 @@ for streaming and recording.
 
 All release builds and version history: **[Releases page](../../releases)**
 
+### Gracepad Timer (standalone countdown)
+
+A lightweight, separate app: an on-screen service countdown with its own
+controller and projection screen. Versioned independently of Gracepad - its
+releases are tagged `timer-v*` on the [Releases page](../../releases).
+
+| Platform | Download |
+|---|---|
+| 🪟 **Windows** (x64) | [Gracepad-Timer-Setup-3.0.0.exe](https://github.com/AnointingPaschal/Gracepad-releases/releases/download/timer-v3.0.0/Gracepad-Timer-Setup-3.0.0.exe) |
+| 🍎 **macOS** (Apple Silicon) | [.dmg](https://github.com/AnointingPaschal/Gracepad-releases/releases/download/timer-v3.0.0/Gracepad-Timer-3.0.0-arm64.dmg) · [.zip](https://github.com/AnointingPaschal/Gracepad-releases/releases/download/timer-v3.0.0/Gracepad-Timer-3.0.0-arm64.zip) |
+| 🐧 **Linux** (x64) | [.AppImage](https://github.com/AnointingPaschal/Gracepad-releases/releases/download/timer-v3.0.0/Gracepad-Timer-3.0.0.AppImage) · [.deb](https://github.com/AnointingPaschal/Gracepad-releases/releases/download/timer-v3.0.0/gracepad-timer_3.0.0_amd64.deb) |
+
+[All Timer releases and notes →](https://github.com/AnointingPaschal/Gracepad-releases/releases/tag/timer-v3.0.0)
+
 > **macOS note:** builds are unsigned (no Apple Developer certificate). On
 > first launch, if macOS blocks it as "unidentified developer," right-click
 > the app → **Open**, or allow it under **System Settings → Privacy &
